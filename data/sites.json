@@ -1,22 +1,22 @@
 [
   {
-      "name": "Fruit Smoothies",
+      "name": "Credit cards",
       "shortCode": "FR",
       "pages": {
           "Home": {
-              "title": "Fruit Smoothies :: Project Homepage",
+              "title": "Credit cards :: Project Homepage",
               "headerImage": "/static/img/fruits/smoothies.jpeg",
-              "subtitle": "Fruit Smoothies - Project Homepage"
+              "subtitle": "Credit cards - Project Homepage"
           },
           "Rating": {
-              "title": "Fruit Smoothies :: Rate the Superheroes",
+              "title": "Credit cards :: Rate the Best Credit card",
               "headerImage": "/static/img/fruits/smoothies.jpeg",
-              "subtitle": "Rate the smoothies"
+              "subtitle": "Rate the Credit card"
           },
           "Leaderboard": {
-              "title": "Fruit Smoothies :: Current Leaderboard",
+              "title": "Credit cards :: Current Leaderboard",
               "headerImage": "/static/img/fruits/smoothies.jpeg",
-              "subtitle": "Current Leaderboard - Orange smoothie? Yuck."
+              "subtitle": "Current Leaderboard"
           }
       }
   }
